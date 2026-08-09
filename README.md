@@ -12,10 +12,10 @@ A feature-packed weather application built with vanilla HTML/CSS/JS, featuring W
 * **Proactive Disaster Alarms**  
   Evaluates real-time hazard vectors from severe weather payload data. Triggers distinctive HTML5 Web Audio sirens for active tornado, flash flood, severe thunderstorm, or extreme drought warnings.
 
-* **Persistent Cache (LocalStorage)**  
+* **Persistent Cache (LocalStorage)**  (TODO)
   Optimizes API quota thresholds and page load performance by storing user preferences, active dashboard configurations, and the home city cache locally.
 
-* **Dynamic Typological Interface**  
+* **Dynamic Typological Interface**  (TODO)
   Replaces standard generic iconography with structural typography and layered background media that dynamically shifts configuration relative to localized meteorological classifications.
 
 * **Weather Wisdom & Eco-Tips**  
